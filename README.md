@@ -1,4 +1,17 @@
 ### Hi there 👋
+---
+I like framework hopping.
+- ☕️ Java  / Android SDK
+- 💻 Swift / AppKit
+
+I also like Linux.
+
+🌱 Currently learning
+- 🦋 Flutter
+- 📜 Smart contract development
+- 🪄 Unreal Engine
+- 👨‍🍳 Blender
+
 
 <!--
 **flash76/flash76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
