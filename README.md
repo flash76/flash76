@@ -7,7 +7,7 @@ I like framework hopping.
 I also like Linux.
 
 🌱 Currently learning
-- 🦋 Flutter
+- ⚛  React Native
 - 📜 Smart contract development
 - 🪄 Unreal Engine
 - 👨‍🍳 Blender
