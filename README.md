@@ -8,7 +8,7 @@ I also like Linux.
 
 🌱 Currently learning
 - ⚛  React Native
-- 📜 Smart contract development
+- 📜 Smart contracts on Tezos
 - 🪄 Unreal Engine
 - 👨‍🍳 Blender
 
